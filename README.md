@@ -58,7 +58,9 @@ A SIMPLE LANDING PAGE FOR A PRODUCT WAS GOING TO LAUNCH
 
 ![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/222649f1-96ad-4c76-8751-ebbdc8cfb479)
 
-=> USER ALREADY REGISTER WITH THE SAME EMAIL ID MEANS HE WILL GET THE ERROR.
+=> USER ALREADY REGISTER WITH THE SAME EMAIL ID MEANS HE WILL GET THE ERROR : IMAGE
+
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/26b91644-d42a-439b-bd8d-090a3c6be36e)
 
 2.2) REGISTER PAGE : DESCRIPTION => 
 
@@ -77,7 +79,9 @@ IF WE TRY TO LOGIN WITH THE SAME EMAIL ID AGAIN IT ALERT US USER REGISTRATION FA
 
 ![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/e1a37473-7021-49ef-a12e-f3ff9d581dac)
 
-=> EMAIL DOES NOT MATCH WITH THE DATABASE : IMAGE
+=> EMAIL AND THE PASSWORD DOES NOT MATCH WITH THE DATABASE IT ALERTS THE USER: IMAGE
+
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/351600e2-e283-461c-a5b0-57deabbd4b20)
 
 3.2) LOGIN PAGE : DESCRIPTION => 
 
@@ -103,13 +107,13 @@ IN THIS, THE USER CAN VIEW THE PRODUCT DETAILS OF THE IMAGE AND CAN SHARE HIS LI
 
 5.1) USER WAIT LIST PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/66ec1456-9dc6-4b6e-a673-6ec5cd1f0d14)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/0d33490d-bb54-451a-8325-e297a2c395f4)
 
 DONT CONFUSE WITH THE NAME OF THE USER I HAVE DONE WHAT THE PROJECT SAYS EMAIL ID SHOULD BE UNIQUE, SO IF NEED WE CAN ALSO MAKE THE USER NAME ALSO UNIQUE FOR YOUR REFERNCE REFER BELOW DATABASE.
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f7721693-f987-4d47-8126-f7d45c7df557)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/68890193-3ef3-4745-a2c6-c17066ec719a)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/ee9ddb63-56a3-4f19-8937-8c01f30225c6)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/cccad5fe-4881-45a6-be38-dd71c0185cdf)
 
 5.2) USER WAIT LIST PAGE : DESCRITION =>
 
@@ -120,11 +124,11 @@ ON THIS PAGE, IT DISPLAYS THE OVERALL USERS WHO HAVE REGISTERED, ALONG WITH THEI
 
 6.1) ADMIN LOGIN PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/ad059279-5bd7-4c62-8fd7-70233cfa7d02)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/23478cb2-1345-4a4f-8b90-af6123962eb7)
 
 ADMIN AND THE USER, LOGIN PAGE ARE SAME.
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/a8557eee-23aa-4456-8e10-37adcb0f7b07)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/06c5e278-b826-4a1e-8109-305feb54655e)
 
 6.2) ADMIN LOGIN PAGE : DESCRITION =>
 
@@ -134,7 +138,7 @@ SAME LANDING PAHE FOR THE ADMIN ALSO TO VIEW THE "PRODUCT BOOKING PAGE" BUT THE 
 
 7.1) ADMIN USER LIST PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/449ac4b9-96ad-4f5a-b8b9-630cd411e68d)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6e74a3da-ba21-49d5-ae7c-cbb5393533e2)
 
 7.1) ADMIN USER LIST PAGE : DESCRITION =>
 
@@ -142,17 +146,17 @@ THE ADMIN CAN SEE THE LIST OF USER IN THE WAIT LIST PAGE AND ALSO CAN EDIT,
 
 => CREATE NEW USER
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/3d373e0f-44cd-4316-b10c-b6b09eb53173)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8f3f5291-c077-4f1b-ab3c-d9abf7163ad9)
 
 => EDIT AND DELETE USER
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/6b72bfe8-4cd4-41b8-9fc0-d4840466f9ab)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8adcd388-81a0-4b32-98f7-a00dbfc5e987)
 
-=> EDITING THE USER7 TO USER77 NOW
+=> EDITING THE USER8 TO USER88 NOW
 
 BEFORE EDIT => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f2a536d4-0809-4686-ac2f-c546fd94bb83)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/19888e4a-8650-4624-9c94-c2a3fdbcd075)
 
 AFTER EDIT => IMAGE :
 
