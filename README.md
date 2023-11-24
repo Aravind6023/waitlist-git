@@ -1,3 +1,4 @@
+
 SaaS Application Development Test
 #To DO  Waitlist application
 Overview
@@ -39,6 +40,7 @@ getting to the top position.
 1). LANDING PAGE:
 
 1.1) LANDING PAGE : IMAGE => 
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/1ca32535-e195-499b-b680-d6de1aad8e46)
 
 ![image](https://github.com/Aravind6023/waitling_list/assets/135958235/671ed1c3-74a5-4968-884d-01768b15f43e)
 
