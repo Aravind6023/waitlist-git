@@ -158,49 +158,51 @@ BEFORE EDIT => IMAGE :
 
 ![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/19888e4a-8650-4624-9c94-c2a3fdbcd075)
 
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d447a145-34fd-4859-b52a-63f1cf122b36)
+
 AFTER EDIT => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/0f289645-ac54-42ef-b0c8-56d9fff7e200)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/890916e5-3644-41ad-8cd6-54646b735d1a)
 
-LIKEWISE WE CAN DELETE THE USER ALSO (DELETING THE USER77) :
+LIKEWISE WE CAN DELETE THE USER ALSO (DELETING THE USER88) => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/0aa98258-c9d3-43a4-a18a-0137c888731c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d323f589-5bb1-4938-8d9d-418c1481bff2)
 
 8). RECEIVE EMAIL UPON ATTAINING THE WINNING POSITION
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/aa2aa784-9c9a-4788-8175-c7b2c1c1a70c).
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/2c5ad1ab-9271-42f7-930c-e7a18a90fad3)
 
 
 RESPONSIVE IMAGE OF IPHONE 14 PROMAX:
 LANDING PAGE : 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/cbacc45d-3af9-42c3-98c9-1d1914e165cb)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/bc614dd3-8a49-41ab-87a6-b18573482e8f)
 
 REGISTER PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/97c19c68-aace-4cf1-b296-2949beda3f0c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/7e9db5cb-dc5a-4e58-a887-37c7e6f9c7d7)
 
 LOGIN PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/86b86dee-1814-4365-967d-58b393dfd1c6)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6764d7fd-52a1-4257-bf87-6a2905dbb11e)
 
 HOME PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/da9b4619-5a56-4a7c-bec5-3e053469f744)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/0d79dfd5-e0c7-4673-846e-569afec4cf59)
 
-USER LIST PAGE OF USER WITH OPEN-MENU :
+USER LIST PAGE OF USER WITH SHOW-NAVBAR :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/5271635d-5333-45bd-8ab2-e9f125b8eb28)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/34eb2d4e-f957-4610-bcc8-da5b1679b200)
 
 USER LIST PAGE OF ADMIN :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f27a78e5-737b-4df9-ab27-a1a958a8966a)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6415f524-1459-4e62-a960-30d275015488)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/36d17827-496f-436d-9b46-c0a20e4eac1d)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/ead99308-9a3b-4852-9853-c3f6e47b02ac)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/8160862f-25b4-4265-93b5-02c7508b51fd)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/5e1022b5-f601-44a9-9116-82ad1add4589)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/c3f8524d-0dbf-4e65-94f2-3b62af32f48c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6a0e7125-f9fe-41fd-abaf-6e92a3973e98)
 
 THIS PROJECT TAKE'S ME 3 1/2 DAYS TO COMPLETE
 TASK CAN BE DONE IF I HAVE TIME :
