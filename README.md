@@ -40,9 +40,8 @@ getting to the top position.
 1). LANDING PAGE:
 
 1.1) LANDING PAGE : IMAGE => 
-![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/1ca32535-e195-499b-b680-d6de1aad8e46)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/671ed1c3-74a5-4968-884d-01768b15f43e)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/869f0a79-6bb7-4342-aa41-81e5cc1acfe4)
 
 1.2) LANDING PAGE : DESCRIPTION => 
 
@@ -53,11 +52,13 @@ A SIMPLE LANDING PAGE FOR A PRODUCT WAS GOING TO LAUNCH
 
 2.1) REGISTER PAGE : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/1933790e-4e2f-4274-855f-a727715f1da3)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d993e687-3a86-4363-8ac8-3bcaf4199f65)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/e7cb4b18-2fbc-4881-bf1d-5ab7a720e2a8)
+=> REGISTERING THE NEW USER : IMAGE
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/4b668774-214a-4576-a56f-6db26cffb0be)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/222649f1-96ad-4c76-8751-ebbdc8cfb479)
+
+=> USER ALREADY REGISTER WITH THE SAME EMAIL ID MEANS HE WILL GET THE ERROR.
 
 2.2) REGISTER PAGE : DESCRIPTION => 
 
@@ -68,13 +69,15 @@ A REGISTRATION PAGE WITHOUT REGEX; INSTEAD, I HAVE UTILIZED THE 'REQUIRED' ATTRI
 
 3.1) LOGIN PAGE : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/d39b42e6-7f4f-4d1e-a31c-b2db6734956e)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8641fbce-e824-4f80-b586-c47978c95b7f)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f4e84cdd-1033-4370-9a44-fb60409d1cd5)
+IF WE TRY TO LOGIN WITH THE SAME EMAIL ID AGAIN IT ALERT US USER REGISTRATION FAILED.
 
-IF WE TRY TO LOGIN WITH THE SAME EMAIL ID IT ALERT US USER REGISTRATION FAILED.
+=> LOGIN BY VALID USER : IMAGE
 
-![Test Alt Text](./assets/sample-page.jpg)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/e1a37473-7021-49ef-a12e-f3ff9d581dac)
+
+=> EMAIL DOES NOT MATCH WITH THE DATABASE : IMAGE
 
 3.2) LOGIN PAGE : DESCRIPTION => 
 
@@ -83,13 +86,13 @@ A LOGIN PAGE WITHOUT REGEX; INSTEAD, I HAVE USED THE "REQUIRED" ATTRIBUTE IN HTM
 
 4). LANDING PAGE :
 
-4.1) LANDING PAGE : IMAGE =>
+4.1) LANDING PAGE FOR USER : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/81647e90-e240-4bff-a6fd-8813922a71a1)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/9c061519-1c33-413e-be8d-5ecd18440ea8)
 
-SHOULD THE USER WISH TO SHARE A LINK WITH THEIR FRIENDS, THEY CAN CREATE THE LINK BY UTILIZING THE 'GENERATE' BUTTON.
+SHOULD THE USER WISH TO SHARE A LINK WITH THEIR FRIENDS, THEY HE CAN CREATE THE LINK BY UTILIZING THE 'GENERATE' BUTTON AND CAN COPY AND SHARE : IMAGE
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/db531820-20f3-44b2-b3e4-e7f1eabde2f4)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/1d2d6473-d7c9-46bf-bf94-b35d5711f785)
 
 4.2) LANDING PAGE : DESCRIPTION => 
 
