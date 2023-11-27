@@ -1,3 +1,4 @@
+
 SaaS Application Development Test
 #To DO  Waitlist application
 Overview
@@ -40,7 +41,7 @@ getting to the top position.
 
 1.1) LANDING PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/671ed1c3-74a5-4968-884d-01768b15f43e)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/869f0a79-6bb7-4342-aa41-81e5cc1acfe4)
 
 1.2) LANDING PAGE : DESCRIPTION => 
 
@@ -51,11 +52,15 @@ A SIMPLE LANDING PAGE FOR A PRODUCT WAS GOING TO LAUNCH
 
 2.1) REGISTER PAGE : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/1933790e-4e2f-4274-855f-a727715f1da3)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d993e687-3a86-4363-8ac8-3bcaf4199f65)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/e7cb4b18-2fbc-4881-bf1d-5ab7a720e2a8)
+=> REGISTERING THE NEW USER : IMAGE
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/4b668774-214a-4576-a56f-6db26cffb0be)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/222649f1-96ad-4c76-8751-ebbdc8cfb479)
+
+=> USER ALREADY REGISTER WITH THE SAME EMAIL ID MEANS HE WILL GET THE ERROR : IMAGE
+
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/26b91644-d42a-439b-bd8d-090a3c6be36e)
 
 2.2) REGISTER PAGE : DESCRIPTION => 
 
@@ -66,13 +71,17 @@ A REGISTRATION PAGE WITHOUT REGEX; INSTEAD, I HAVE UTILIZED THE 'REQUIRED' ATTRI
 
 3.1) LOGIN PAGE : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/d39b42e6-7f4f-4d1e-a31c-b2db6734956e)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8641fbce-e824-4f80-b586-c47978c95b7f)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f4e84cdd-1033-4370-9a44-fb60409d1cd5)
+IF WE TRY TO LOGIN WITH THE SAME EMAIL ID AGAIN IT ALERT US USER REGISTRATION FAILED.
 
-IF WE TRY TO LOGIN WITH THE SAME EMAIL ID IT ALERT US USER REGISTRATION FAILED.
+=> LOGIN BY VALID USER : IMAGE
 
-![plot](./assets/sample-page.jpg)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/e1a37473-7021-49ef-a12e-f3ff9d581dac)
+
+=> EMAIL AND THE PASSWORD DOES NOT MATCH WITH THE DATABASE IT ALERTS THE USER: IMAGE
+
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/351600e2-e283-461c-a5b0-57deabbd4b20)
 
 3.2) LOGIN PAGE : DESCRIPTION => 
 
@@ -81,13 +90,13 @@ A LOGIN PAGE WITHOUT REGEX; INSTEAD, I HAVE USED THE "REQUIRED" ATTRIBUTE IN HTM
 
 4). LANDING PAGE :
 
-4.1) LANDING PAGE : IMAGE =>
+4.1) LANDING PAGE FOR USER : IMAGE =>
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/81647e90-e240-4bff-a6fd-8813922a71a1)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/9c061519-1c33-413e-be8d-5ecd18440ea8)
 
-SHOULD THE USER WISH TO SHARE A LINK WITH THEIR FRIENDS, THEY CAN CREATE THE LINK BY UTILIZING THE 'GENERATE' BUTTON.
+SHOULD THE USER WISH TO SHARE A LINK WITH THEIR FRIENDS, THEY HE CAN CREATE THE LINK BY UTILIZING THE 'GENERATE' BUTTON AND CAN COPY AND SHARE : IMAGE
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/db531820-20f3-44b2-b3e4-e7f1eabde2f4)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/1d2d6473-d7c9-46bf-bf94-b35d5711f785)
 
 4.2) LANDING PAGE : DESCRIPTION => 
 
@@ -98,13 +107,13 @@ IN THIS, THE USER CAN VIEW THE PRODUCT DETAILS OF THE IMAGE AND CAN SHARE HIS LI
 
 5.1) USER WAIT LIST PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/66ec1456-9dc6-4b6e-a673-6ec5cd1f0d14)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/0d33490d-bb54-451a-8325-e297a2c395f4)
 
 DONT CONFUSE WITH THE NAME OF THE USER I HAVE DONE WHAT THE PROJECT SAYS EMAIL ID SHOULD BE UNIQUE, SO IF NEED WE CAN ALSO MAKE THE USER NAME ALSO UNIQUE FOR YOUR REFERNCE REFER BELOW DATABASE.
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f7721693-f987-4d47-8126-f7d45c7df557)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/68890193-3ef3-4745-a2c6-c17066ec719a)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/ee9ddb63-56a3-4f19-8937-8c01f30225c6)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/cccad5fe-4881-45a6-be38-dd71c0185cdf)
 
 5.2) USER WAIT LIST PAGE : DESCRITION =>
 
@@ -115,11 +124,11 @@ ON THIS PAGE, IT DISPLAYS THE OVERALL USERS WHO HAVE REGISTERED, ALONG WITH THEI
 
 6.1) ADMIN LOGIN PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/ad059279-5bd7-4c62-8fd7-70233cfa7d02)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/23478cb2-1345-4a4f-8b90-af6123962eb7)
 
 ADMIN AND THE USER, LOGIN PAGE ARE SAME.
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/a8557eee-23aa-4456-8e10-37adcb0f7b07)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/06c5e278-b826-4a1e-8109-305feb54655e)
 
 6.2) ADMIN LOGIN PAGE : DESCRITION =>
 
@@ -129,7 +138,7 @@ SAME LANDING PAHE FOR THE ADMIN ALSO TO VIEW THE "PRODUCT BOOKING PAGE" BUT THE 
 
 7.1) ADMIN USER LIST PAGE : IMAGE => 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/449ac4b9-96ad-4f5a-b8b9-630cd411e68d)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6e74a3da-ba21-49d5-ae7c-cbb5393533e2)
 
 7.1) ADMIN USER LIST PAGE : DESCRITION =>
 
@@ -137,63 +146,65 @@ THE ADMIN CAN SEE THE LIST OF USER IN THE WAIT LIST PAGE AND ALSO CAN EDIT,
 
 => CREATE NEW USER
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/3d373e0f-44cd-4316-b10c-b6b09eb53173)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8f3f5291-c077-4f1b-ab3c-d9abf7163ad9)
 
 => EDIT AND DELETE USER
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/6b72bfe8-4cd4-41b8-9fc0-d4840466f9ab)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/8adcd388-81a0-4b32-98f7-a00dbfc5e987)
 
-=> EDITING THE USER7 TO USER77 NOW
+=> EDITING THE USER8 TO USER88 NOW
 
 BEFORE EDIT => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f2a536d4-0809-4686-ac2f-c546fd94bb83)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/19888e4a-8650-4624-9c94-c2a3fdbcd075)
+
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d447a145-34fd-4859-b52a-63f1cf122b36)
 
 AFTER EDIT => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/0f289645-ac54-42ef-b0c8-56d9fff7e200)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/890916e5-3644-41ad-8cd6-54646b735d1a)
 
-LIKEWISE WE CAN DELETE THE USER ALSO (DELETING THE USER77) :
+LIKEWISE WE CAN DELETE THE USER ALSO (DELETING THE USER88) => IMAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/0aa98258-c9d3-43a4-a18a-0137c888731c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/d323f589-5bb1-4938-8d9d-418c1481bff2)
 
 8). RECEIVE EMAIL UPON ATTAINING THE WINNING POSITION
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/aa2aa784-9c9a-4788-8175-c7b2c1c1a70c).
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/2c5ad1ab-9271-42f7-930c-e7a18a90fad3)
 
 
 RESPONSIVE IMAGE OF IPHONE 14 PROMAX:
 LANDING PAGE : 
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/cbacc45d-3af9-42c3-98c9-1d1914e165cb)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/bc614dd3-8a49-41ab-87a6-b18573482e8f)
 
 REGISTER PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/97c19c68-aace-4cf1-b296-2949beda3f0c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/7e9db5cb-dc5a-4e58-a887-37c7e6f9c7d7)
 
 LOGIN PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/86b86dee-1814-4365-967d-58b393dfd1c6)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6764d7fd-52a1-4257-bf87-6a2905dbb11e)
 
 HOME PAGE :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/da9b4619-5a56-4a7c-bec5-3e053469f744)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/0d79dfd5-e0c7-4673-846e-569afec4cf59)
 
-USER LIST PAGE OF USER WITH OPEN-MENU :
+USER LIST PAGE OF USER WITH SHOW-NAVBAR :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/5271635d-5333-45bd-8ab2-e9f125b8eb28)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/34eb2d4e-f957-4610-bcc8-da5b1679b200)
 
 USER LIST PAGE OF ADMIN :
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/f27a78e5-737b-4df9-ab27-a1a958a8966a)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6415f524-1459-4e62-a960-30d275015488)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/36d17827-496f-436d-9b46-c0a20e4eac1d)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/ead99308-9a3b-4852-9853-c3f6e47b02ac)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/8160862f-25b4-4265-93b5-02c7508b51fd)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/5e1022b5-f601-44a9-9116-82ad1add4589)
 
-![image](https://github.com/Aravind6023/waitling_list/assets/135958235/c3f8524d-0dbf-4e65-94f2-3b62af32f48c)
+![image](https://github.com/Aravind6023/waitlist-git/assets/135958235/6a0e7125-f9fe-41fd-abaf-6e92a3973e98)
 
-THIS PROJECT TAKE'S ME 3 1/2 DAYS TO COMPLETE
+THIS PROJECT TOOK ME 3 1/2 DAYS TO COMPLETE
 TASK CAN BE DONE IF I HAVE TIME :
 1). CAN DO REGEX 
 2). CAN USE JWT FOR AUTHORIZATION AND AUTHENTICATION(SETTING THE TIME PERIOD FOR THE ADMIN (MAINLY)).
